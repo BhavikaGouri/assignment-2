@@ -1,0 +1,5 @@
+Healthcare providers are increasingly using artificial intelligence to summarize clinical notes, flag potential risks, and speed up administrative work.
+At St. Anne's Hospital, physicians and nurses have started testing a model-assisted triage workflow that helps prioritize urgent cases while reducing documentation time.
+The project team said the system still requires human review, especially when symptoms are ambiguous or when patient history is incomplete.
+Analysts in Boston and New York noted that the biggest challenge is not model accuracy alone, but workflow design, governance, and patient privacy.
+Hospital leadership expects the pilot to improve turnaround time, but staff members want clear rules for accountability before broader rollout.

@@ -1,0 +1,21 @@
+[
+  {
+    "source_name": "healthcare_ai.txt",
+    "source_type": "file",
+    "chunk_index": 0,
+    "chunk_tokens": 145,
+    "summary": "The text describes how healthcare organizations are adopting AI to summarize notes, prioritize urgent cases, and reduce administrative burden. It emphasizes that human oversight remains necessary because ambiguous symptoms and incomplete histories can still create errors. The pilot is framed as promising but dependent on governance, privacy, and workflow design.",
+    "entities": {
+      "people": [],
+      "places": ["St. Anne's Hospital", "Boston", "New York"],
+      "organizations": ["St. Anne's Hospital", "hospital leadership"]
+    },
+    "sentiment": {"label": "neutral", "confidence": 0.84},
+    "questions": [
+      "How will clinicians verify AI recommendations in ambiguous cases?",
+      "What governance model will protect patient privacy?",
+      "How should accountability be assigned when the system makes a poor suggestion?"
+    ],
+    "raw_model_output": "{"summary": "..."}"
+  }
+]

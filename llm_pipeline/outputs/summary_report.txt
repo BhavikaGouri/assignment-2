@@ -1,0 +1,23 @@
+LLM Pipeline Summary Report
+============================
+Total analyzed chunks: 1
+
+Sentiment distribution:
+- neutral: 1
+
+Top people:
+- None found
+
+Top places:
+- St. Anne's Hospital: 1
+- Boston: 1
+- New York: 1
+
+Top organizations:
+- St. Anne's Hospital: 1
+- hospital leadership: 1
+
+Most common questions raised:
+- How will clinicians verify AI recommendations in ambiguous cases?: 1
+- What governance model will protect patient privacy?: 1
+- How should accountability be assigned when the system makes a poor suggestion?: 1
